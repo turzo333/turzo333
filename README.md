@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=turzo333&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/turzo333?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Experience-11%2B%20Years-brightgreen?style=flat" alt="Experience" />
-  <img src="https://img.shields.io/badge/Last%20Updated-Aug%202025-blue?style=flat" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Last%20Updated-Oct%202025-blue?style=flat" alt="Last Updated" />
 </div>
 
 ---
@@ -25,7 +25,7 @@ const saifTurzo = {
     website: "https://microdeft.com",
     experience: "11+ years in software engineering",
     foundedCompany: "2015",
-    lastUpdated: "August 2025",
+    lastUpdated: "October 2025",
     coreIdentity: [
         "Passionate Software Engineer",
         "Full-Stack Developer",
@@ -139,7 +139,7 @@ const saifTurzo = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turzo333&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=turzo333&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -207,7 +207,7 @@ const saifTurzo = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=turzo333&theme=tokyo-night&hide_border=true" />
 </div>
 
-### 🚀 Current MicroDeft Engineering Initiatives (August 2025)
+### 🚀 Current MicroDeft Engineering Initiatives (October 2025)
 - 🤖 **AI-Powered Business Solutions**: Implementing GPT-4 and custom ML models for enterprise automation
 - 🔒 **Advanced Cybersecurity Services**: Zero-trust architecture and advanced threat detection systems
 - 🌐 **IoT Integration Platform**: Smart city solutions and industrial IoT implementations
@@ -241,7 +241,7 @@ const saifTurzo = {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%F0%9F%98%8A;Profile+updated+August+2025;Passionate+about+coding+%26+innovation!;Let's+build+the+future+together!;CEO+%26+Founder+at+MicroDeft+since+2015;Always+ready+for+new+challenges!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%F0%9F%98%8A;Profile+updated+October+2025;Passionate+about+coding+%26+innovation!;Let's+build+the+future+together!;CEO+%26+Founder+at+MicroDeft+since+2015;Always+ready+for+new+challenges!" alt="Typing SVG" />
 </div>
 
 <div align="center">
