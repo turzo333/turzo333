@@ -139,7 +139,7 @@ const saifTurzo = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=turzo333&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=turzo333&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
